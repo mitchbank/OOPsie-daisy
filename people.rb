@@ -29,10 +29,10 @@ class Teacher < Person
 	end
 end
 
-student = Student.new("Keener", "Studint")
+student = Student.new("Christina", "Balor")
 
 puts student
 
-teacher = Teacher.new("Linus", "Techtips")
+teacher = Teacher.new("Chris", "Bale")
 
 puts teacher
