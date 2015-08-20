@@ -1,6 +1,6 @@
 class Student
 
-	def to_s
+	def learn
 		"I get it!"
 	end
 
